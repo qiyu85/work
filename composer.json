@@ -17,18 +17,9 @@
       "email": "qiyu88088@163.com"
     }
   ],
-  "minimum-stability": "stable",
   "require": {
     "php": ">=5.4.0",
     "yiisoft/yii2": ">=1.0.0"
    
-  },
-  "autoload": {
-    "psr-4": {
-      "terry\\": ""
-    }
-  },
-  "config": {
-    "process-timeout": 1800
   }
 }
