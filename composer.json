@@ -16,10 +16,5 @@
       "name": "qi yu",
       "email": "qiyu88088@163.com"
     }
-  ],
-  "minimum-stability": "stable",
-  "require": {
-    "php": ">=5.4.0"
-   
-  }
+  ]
 }
